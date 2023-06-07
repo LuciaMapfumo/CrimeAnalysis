@@ -23,8 +23,8 @@ hide_bar= """
 """
 
 # --- USER AUTHENTICATION ---
-names = ["lucy", "lucy","admin"]
-usernames = ["lucy", "lucy","admin"]
+names = ["lucy", "walline","wellington","rutendo","nigel","admin"]
+usernames = ["lucy", "walline","wellington","rutendo","nigel","admin"]
 
 # load hashed passwords
 file_path = Path(__file__).parent / "hashed_pw.pkl"
